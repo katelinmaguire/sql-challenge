@@ -1,5 +1,6 @@
-﻿-- Optional: Drop tables, if needed. Drop them all at once to avoid issues with dependency
-DROP TABLE departments, 
+﻿-- Drop all tables at once to avoid issues with dependency
+DROP TABLE IF EXISTS 
+departments, 
 dept_emp, 
 dept_manager, 
 employees, 
