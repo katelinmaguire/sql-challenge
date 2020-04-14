@@ -1,2 +1,5 @@
 
 .DS_Store
+EmployeeSQL/config.py
+EmployeeSQL/.ipynb_checkpoints/sql-challenge-checkpoint.ipynb
+EmployeeSQL/__pycache__/config.cpython-37.pyc
